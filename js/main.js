@@ -13,7 +13,7 @@ let searchWarning = document.getElementById("searchWarning");
 
 let products = [];
 
-let bla;    // to track edited row index
+let bla;    
 
 
 if (localStorage.getItem("productsList") != null) {
